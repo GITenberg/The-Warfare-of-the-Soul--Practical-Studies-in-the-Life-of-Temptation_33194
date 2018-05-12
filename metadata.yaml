@@ -1,0 +1,28 @@
+_repo: The-Warfare-of-the-Soul--Practical-Studies-in-the-Life-of-Temptation_33194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughson, Shirley Carter
+    alias: Hughson, S. C. (Shirley Carter)
+    birthdate: 1867
+    deathdate: 1949
+    gutenberg_agent_id: '36256'
+    url: http://www.gutenberg.org/2009/agents/36256
+description: ''
+gutenberg_issued: '2010-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33194'
+  lccn: '10004595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temptation'
+- !lcc 'BT'
+title: 'The Warfare of the Soul: Practical Studies in the Life of Temptation'
+url: http://www.gutenberg.org/ebooks/33194
